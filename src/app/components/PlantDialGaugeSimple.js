@@ -1,6 +1,5 @@
 import GaugeComponent from "react-gauge-component";
 
-
 const BREAKPOINTS = [
     { limit: 30, color: "#FF0000", label: "Needs More Work (0–30%)" },
     { limit: 60, color: "#F9C802", label: "Slightly Under Capacity (30–60%)" },

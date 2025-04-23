@@ -1,4 +1,3 @@
-// components/PlantDialGauge.js
 "use client";
 import GaugeComponent from "react-gauge-component";
 
